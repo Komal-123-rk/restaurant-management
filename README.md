@@ -11,7 +11,6 @@ It helps manage food orders, billing, and customer details efficiently.
 - Simple and user-friendly interface
 
 ## Technologies Used
-- Language: (इथे तुझी language लिही – Java / Python / PHP etc.)
 - Database: (MySQL / SQLite etc.)
 
 ## How to Run
